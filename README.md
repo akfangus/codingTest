@@ -1,2 +1,9 @@
 # codingTest
-coding test for practicing javascript
+
+### 1일차 ( 01. 19)
+  - 두 수의 곱
+  - 목 구하기
+  
+### 2일차 ( 01. 20)
+  - 양꼬치
+  - 배열의 평균값
